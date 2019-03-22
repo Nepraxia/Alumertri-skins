@@ -1,5 +1,5 @@
 # Alumetri List of skins used.
-In chat ask @osuKaido / @Vespuchka if there's a skin not listed here yet that I need to add.
+In chat ask @osuKaido / @Vespuchka if Alumetri is using A skin not listed.
 
 Click on the skin name to download.
 
@@ -18,4 +18,10 @@ Click on the skin name to download.
 ![](https://osu.ppy.sh/ss/12911286)
 
 # [Tuna's skin](http://download2268.mediafire.com/wjfvb7k71m1g/r2nmj480hicez9k/-+Selyu+v2.3.osk)
-![](http://skins.cyperdark.ru/uploads/posts/2018-09/1537800305_znikfll.jpg)
+![](https://osu.ppy.sh/ss/12911389)
+
+# [Rafis 2k18 (CK)](http://download2260.mediafire.com/8q8lhcmphdbg/xbj18cazxyzc2up/-+%23+Rafis+2k18+%5B1.0001%5D+%28CK%29.osk)
+![](https://osu.ppy.sh/ss/12911373)
+
+# [Rafis RyuK Edit -](https://mizaru.s-ul.eu/TejHx3RT) 
+![](https://osu.ppy.sh/ss/12911411)
